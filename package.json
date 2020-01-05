@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-ninja",
+  "version": "1.0.0",
+  "description": "Robust Architecture for Node",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faris-AH/nodejs-ninja.git"
+  },
+  "keywords": [
+    "Typescript",
+    "Express",
+    "TypeORM",
+    "Typedi"
+  ],
+  "author": "Faris Bin Abdul Hameed <faris.hameed@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Faris-AH/nodejs-ninja/issues"
+  },
+  "homepage": "https://github.com/Faris-AH/nodejs-ninja#readme"
+}
